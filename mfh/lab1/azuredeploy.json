@@ -4,7 +4,7 @@
     "parameters": {
         "storageAccountPrefix": {
            "type": "string",
-           "defaultValue": "mfh-sa",
+           "defaultValue": "mfhsa",
            "maxLength": 11,
            "metadata": {
                 "description": "prefix for the storage account name"
